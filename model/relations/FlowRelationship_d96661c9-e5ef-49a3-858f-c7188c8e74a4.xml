@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lese data slik de er lagret"
+    id="d96661c9-e5ef-49a3-858f-c7188c8e74a4">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_2c25c4ec-11c9-4c42-8a9d-b8acb97f2efb.xml#2c25c4ec-11c9-4c42-8a9d-b8acb97f2efb"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_49a99eed-9af9-457c-b10b-ccb473ebd55f.xml#49a99eed-9af9-457c-b10b-ccb473ebd55f"/>
+</archimate:FlowRelationship>

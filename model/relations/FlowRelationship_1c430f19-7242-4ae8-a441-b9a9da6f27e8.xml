@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leses slik dataene er"
+    id="1c430f19-7242-4ae8-a441-b9a9da6f27e8">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_7cecd4cf-0832-42f3-9726-f2c8656720a0.xml#7cecd4cf-0832-42f3-9726-f2c8656720a0"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_62320274-43d7-4925-b9a9-c5193eee185a.xml#62320274-43d7-4925-b9a9-c5193eee185a"/>
+</archimate:FlowRelationship>

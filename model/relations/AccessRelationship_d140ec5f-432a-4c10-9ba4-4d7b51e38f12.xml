@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pull"
+    id="d140ec5f-432a-4c10-9ba4-4d7b51e38f12"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_94611bee-5866-4b5f-ab73-ae459255bf8b.xml#94611bee-5866-4b5f-ab73-ae459255bf8b"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_3fc14313-c1cc-4091-aec3-d5f61a12393c.xml#3fc14313-c1cc-4091-aec3-d5f61a12393c"/>
+</archimate:AccessRelationship>

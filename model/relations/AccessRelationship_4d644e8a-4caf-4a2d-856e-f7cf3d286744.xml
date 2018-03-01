@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Push"
+    id="4d644e8a-4caf-4a2d-856e-f7cf3d286744"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_94611bee-5866-4b5f-ab73-ae459255bf8b.xml#94611bee-5866-4b5f-ab73-ae459255bf8b"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_d32c7237-47cc-4a70-8519-d58fde5c8b70.xml#d32c7237-47cc-4a70-8519-d58fde5c8b70"/>
+</archimate:AccessRelationship>

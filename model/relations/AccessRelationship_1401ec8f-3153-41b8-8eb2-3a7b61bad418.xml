@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Henter informasjon fra"
+    id="1401ec8f-3153-41b8-8eb2-3a7b61bad418"
+    accessType="1">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_ac6eb977-ca2c-46c5-afeb-d09b9f991025.xml#ac6eb977-ca2c-46c5-afeb-d09b9f991025"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_58d12784-2d3b-44e6-ae2c-a7d55fc892b8.xml#58d12784-2d3b-44e6-ae2c-a7d55fc892b8"/>
+</archimate:AccessRelationship>

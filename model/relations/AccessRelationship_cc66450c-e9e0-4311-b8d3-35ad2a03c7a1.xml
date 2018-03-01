@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiserer informasjon til"
+    id="cc66450c-e9e0-4311-b8d3-35ad2a03c7a1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_d21a915b-28f8-4068-8c54-e59aa5bc694a.xml#d21a915b-28f8-4068-8c54-e59aa5bc694a"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_58d12784-2d3b-44e6-ae2c-a7d55fc892b8.xml#58d12784-2d3b-44e6-ae2c-a7d55fc892b8"/>
+</archimate:AccessRelationship>
